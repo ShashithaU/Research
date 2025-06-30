@@ -1,0 +1,19 @@
+python API	5000	http://localhost:5000	ML model inference
+Node.js Backend	3000	http://localhost:3000	API gateway
+React Frontend	3001	http://localhost:3001	User interface
+
+ 
+1. python model_api.py command eken start karanna model_api.py dictinary eke thiyena flask backend eka
+
+2 . my-fullstack-app\backend ekata gihin  npm start gahala node.js backend eka stat karanna
+
+3. my-fullstack-app\frontend ekata gihin npm start gahala react frontend eka start karanna
+
+
+hema backend ekakma uda thiyena port eken open karanna
+
+
+
+
+
+
